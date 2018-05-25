@@ -1,7 +1,7 @@
 {
   "name": "zchking/magento2_zh_hans_tw",
   "description": "Traditional Chinese language package for Magento 2",
-  "homepage": "https://github.com/zchking/magento2_zh_hans_tw",
+  "homepage": "https://github.com/zchking/magento2_zh_hant_tw",
   "require": {
     "magento/framework": "*"
   },

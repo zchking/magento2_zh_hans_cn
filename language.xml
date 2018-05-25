@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
-    <code>zh_Hans_TW</code>
+    <code>zh_Hant_TW</code>
     <vendor>chaotiinfo</vendor>
-    <package>magento2_zh_hans_tw</package>
+    <package>zh_hant_tw</package>
      <sort_order>1</sort_order>
 </language>

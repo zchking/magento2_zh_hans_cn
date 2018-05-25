@@ -1,6 +1,6 @@
 <?php
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'zch_magento2_zh_hans_tw',
+    'magento2_zh_hant_tw',
     __DIR__
 );
